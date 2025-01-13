@@ -1,5 +1,4 @@
-// import { db } from "@vercel/postgres";
-
+// import { db } from "@/app/lib/db";
 // const client = await db.connect();
 
 // async function listInvoices() {
